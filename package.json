@@ -1,0 +1,23 @@
+{
+  "name": "24-movie",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "animejs": "^3.2.0",
+    "axios": "^0.19.2",
+    "gsap": "^3.5.1",
+    "jquery": "^3.5.1",
+    "next": "9.5.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-paginate": "^6.3.2",
+    "react-reveal": "^1.2.2",
+    "sass": "^1.26.10",
+    "ua-parser-js": "^0.7.21"
+  }
+}
